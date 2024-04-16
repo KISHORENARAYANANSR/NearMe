@@ -1,4 +1,4 @@
-
+![Screenshot 2024-04-16 090509](https://github.com/KISHORENARAYANANSR/NearMe/assets/148202102/8ac75840-d765-4b60-9c57-2f3a6623d004)
 ## Date: 10-04-2024
 
 ## AIM
@@ -165,19 +165,15 @@ Execute the programs and publish them.
 ```
 ## OUTPUT:
 
-
-![image](https://github.com/NSArjun/NearMe/assets/148233801/3630deff-18e6-441f-964a-5644894c5260)
-
-
-![image](https://github.com/NSArjun/NearMe/assets/148233801/c5b106a7-e07f-495e-9a3f-0c2016ef352b)
-
-![image](https://github.com/NSArjun/NearMe/assets/148233801/3f757862-d01b-4956-a41f-08ed05ca4d54)
-
-![image](https://github.com/NSArjun/NearMe/assets/148233801/780af315-3515-43d1-a2da-20fbfebee7f2)
-
-![image](https://github.com/NSArjun/NearMe/assets/148233801/69146395-d152-492b-a670-f16e55017ccd)
+![Screenshot 2024-04-16 at 9 10 01 AM](https://github.com/KISHORENARAYANANSR/NearMe/assets/148202102/dfa72fd0-04cc-4906-9f36-57605f8fe87e)
 
 
+![Screenshot 2024-04-16 090548](https://github.com/KISHORENARAYANANSR/NearMe/assets/148202102/fbdd370e-7f3c-4219-9011-d433e2ad907e)
+
+![Screenshot 2024-04-16 090537](https://github.com/KISHORENARAYANANSR/NearMe/assets/148202102/01973098-024c-4af9-9228-e6650b7304c3)
+
+
+![Screenshot 2024-04-16 090509](https://github.com/KISHORENARAYANANSR/NearMe/assets/148202102/7c23b866-7517-47c6-8165-5b4287e1cf1e)
 
 
 ## RESULT
